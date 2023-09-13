@@ -620,7 +620,7 @@
         }
     ],
     "categories": ["pizza" , "pasta" , "salads" , "dessert" , "drinks" , "sauces" , "sides"],
-    "food/categorie/sides": [
+    "food": [
         {
             "id": 0,
             "name": "Wedges",
