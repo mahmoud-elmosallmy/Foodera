@@ -1,5 +1,5 @@
 {
-    "pizza": [
+    "food": [
         {
             "id": 0,
             "name": "Margherita",
@@ -330,11 +330,9 @@
             "vegetarian": false,
             "price": 28.5,
             "image": "https://i.imgur.com/cYpO8RT.png"
-        }
-    ],
-    "pasta": [
+        },
         {
-            "id": 0,
+            "id": 19,
             "name": "Bolognese",
             "category": "pasta",
             "description": "",
@@ -345,7 +343,7 @@
             "image": "https://i.imgur.com/IXDJ52k.png"
         },
         {
-            "id": 1,
+            "id": 20,
             "name": "Carbonara",
             "category": "pasta",
             "description": "",
@@ -359,11 +357,9 @@
             "vegetarian": true,
             "price": 28.0,
             "image": "https://i.imgur.com/3jKSuUu.png"
-        }
-    ],
-    "salads": [
+        },
         {
-            "id": 0,
+            "id": 21,
             "name": "Caesar",
             "category": "salads",
             "description": "",
@@ -383,7 +379,7 @@
             "image": "https://i.imgur.com/QWXH2NC.png"
         },
         {
-            "id": 1,
+            "id": 22,
             "name": "Greek",
             "category": "salads",
             "description": "",
@@ -405,7 +401,7 @@
             "image": "https://i.imgur.com/qChqf83.png"
         },
         {
-            "id": 2,
+            "id": 23,
             "name": "Tuna",
             "category": "salads",
             "description": "",
@@ -423,11 +419,9 @@
             "vegetarian": false,
             "price": 20,
             "image": "https://i.imgur.com/Ph0IjrX.png"
-        }
-    ],
-    "dessert": [
+        },
         {
-            "id": 0,
+            "id": 24,
             "name": "Brownie",
             "category": "dessert",
             "description": "A delicious cake with chocolate and hazelnuts",
@@ -438,7 +432,7 @@
             "image": "https://i.imgur.com/7WbfaDN.png"
         },
         {
-            "id": 1,
+            "id": 25,
             "name": "Chocolate Tortilla",
             "category": "dessert",
             "description": "Tortilla filled with chocolate cream",
@@ -449,7 +443,7 @@
             "image": "https://i.imgur.com/Mgsc3IZ.png"
         },
         {
-            "id": 2,
+            "id": 26,
             "name": "Apple Pie",
             "category": "dessert",
             "description": "Hot pie with apple and cinnamon",
@@ -460,7 +454,7 @@
             "image": "https://i.imgur.com/OWIVhWX.png"
         },
         {
-            "id": 3,
+            "id": 27,
             "name": "Cheesecake",
             "category": "dessert",
             "description": "Cheesecake with berries topping",
@@ -469,11 +463,9 @@
             "vegetarian": false,
             "price": 15,
             "image": "https://i.imgur.com/AsldA7x.png"
-        }
-    ],
-    "drinks": [
+        },
         {
-            "id": 0,
+            "id": 28,
             "name": "Coca Cola",
             "category": "drinks",
             "description": "Coca Cola 330ml",
@@ -484,7 +476,7 @@
             "image": "https://i.imgur.com/nJ6LeWv.png"
         },
         {
-            "id": 1,
+            "id": 29,
             "name": "Fanta",
             "category": "drinks",
             "description": "Fanta 330ml",
@@ -495,7 +487,7 @@
             "image": "https://i.imgur.com/1WDkfme.png"
         },
         {
-            "id": 2,
+            "id": 30,
             "name": "Sprite",
             "category": "drinks",
             "description": "Sprite 330ml",
@@ -506,7 +498,7 @@
             "image": "https://i.imgur.com/qP4Nx1x.jpg"
         },
         {
-            "id": 3,
+            "id": 31,
             "name": "Water",
             "category": "drinks",
             "description": "Dorna 0.5L",
@@ -517,7 +509,7 @@
             "image": "https://i.imgur.com/yYuuaL1.jpg"
         },
         {
-            "id": 4,
+            "id": 32,
             "name": "Sparkling water",
             "category": "drinks",
             "description": "Dorna 0.5L",
@@ -528,7 +520,7 @@
             "image": "https://i.imgur.com/0nyJk19.jpg"
         },
         {
-            "id": 5,
+            "id": 34,
             "name": "Fuzetea",
             "category": "drinks",
             "description": "Fuzetea 0.5L Peach or Lemon",
@@ -537,11 +529,9 @@
             "vegetarian": false,
             "price": 5,
             "image": "https://i.imgur.com/dsHumXE.jpg"
-        }
-    ],
-    "sauces": [
+        },
         {
-            "id": 0,
+            "id": 35,
             "name": "BBQ",
             "category": "sauces",
             "description": "",
@@ -552,7 +542,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 1,
+            "id": 36,
             "name": "Pizza",
             "category": "sauces",
             "description": "",
@@ -563,7 +553,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 2,
+            "id": 37,
             "name": "Salsa",
             "category": "sauces",
             "description": "",
@@ -574,7 +564,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 3,
+            "id": 38,
             "name": "Sweet Chilli",
             "category": "sauces",
             "description": "",
@@ -585,7 +575,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 4,
+            "id": 39,
             "name": "Spicy TABASCO",
             "category": "sauces",
             "description": "",
@@ -596,7 +586,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 5,
+            "id": 40,
             "name": "Mayonnaise",
             "category": "sauces",
             "description": "",
@@ -607,7 +597,7 @@
             "image": "https://i.imgur.com/OmejA2J.png"
         },
         {
-            "id": 6,
+            "id": 41,
             "name": "Ketchup",
             "category": "sauces",
             "description": "",
@@ -618,7 +608,7 @@
             "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
-            "id": 7,
+            "id": 42,
             "name": "Garlic sauce",
             "category": "sauces",
             "description": "",
@@ -627,11 +617,9 @@
             "vegetarian": false,
             "price": 4,
             "image": "https://i.imgur.com/OmejA2J.png"
-        }
-    ],
-    "sides": [
+        },
         {
-            "id": 0,
+            "id": 43,
             "name": "Wedges",
             "category": "sides",
             "description": "Baked potatoes, slightly spicy",
@@ -642,7 +630,7 @@
             "image": "https://i.imgur.com/sxP6sJt.png"
         },
         {
-            "id": 1,
+            "id": 44,
             "name": "Onion rings",
             "category": "sides",
             "description": "Fried onion rings",
@@ -653,7 +641,7 @@
             "image": "https://i.imgur.com/i3Jintb.png"
         },
         {
-            "id": 2,
+            "id": 45,
             "name": "Coleslaw",
             "category": "sides",
             "description": "Cabbage salad, carrots and dressing",
@@ -664,5 +652,5 @@
             "image": "https://i.imgur.com/HNX30U9.png"
         }
     ],
-    "food/categories": ["pizza" , "pasta" , "salads" , "dessert" , "drinks" , "sauces" , "sides"]
+    "categories": ["pizza" , "pasta" , "salads" , "dessert" , "drinks" , "sauces" , "sides"]
 }
