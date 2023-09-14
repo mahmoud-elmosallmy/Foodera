@@ -3,7 +3,6 @@
         {
             "id": 0,
             "name": "Margherita",
-            "category": "pizza",
             "description": "",
             "ingredients": ["tomato sauce", "mozzarella"],
             "spicy": false,
@@ -14,7 +13,6 @@
         {
             "id": 1,
             "name": "Pepperoni",
-            "category": "pizza",
             "description": "",
             "ingredients": ["tomato sauce", "mozzarella", "double pepperoni"],
             "spicy": false,
@@ -25,7 +23,6 @@
         {
             "id": 2,
             "name": "Rome",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -42,7 +39,6 @@
         {
             "id": 3,
             "name": "American Spicy",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -62,7 +58,6 @@
         {
             "id": 4,
             "name": "Quattro Stagioni",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -80,7 +75,6 @@
         {
             "id": 5,
             "name": "Pork & Feta",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -98,7 +92,6 @@
         {
             "id": 6,
             "name": "Quattro Formaggi",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "mozzarella",
@@ -115,7 +108,6 @@
         {
             "id": 7,
             "name": "Carnivora",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -133,7 +125,6 @@
         {
             "id": 8,
             "name": "Louisiana Chicken",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "marinated chicken",
@@ -151,7 +142,6 @@
         {
             "id": 9,
             "name": "Honey Mustard Chicken",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -168,7 +158,6 @@
         {
             "id": 10,
             "name": "Hawaiian",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "mozzarella",
@@ -186,7 +175,6 @@
         {
             "id": 11,
             "name": "Classic",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -203,7 +191,6 @@
         {
             "id": 12,
             "name": "Pastrami",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -221,7 +208,6 @@
         {
             "id": 13,
             "name": "Hot Pastrami",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "Honey Mustard sauce",
@@ -239,7 +225,6 @@
         {
             "id": 14,
             "name": "Country",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -257,7 +242,6 @@
         {
             "id": 15,
             "name": "Hot Cheese",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -276,7 +260,6 @@
         {
             "id": 16,
             "name": "Ocean",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -294,7 +277,6 @@
         {
             "id": 17,
             "name": "BBQ",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -314,7 +296,6 @@
         {
             "id": 18,
             "name": "Mexicana",
-            "category": "pizza",
             "description": "",
             "ingredients": [
                 "tomato sauce",
@@ -336,7 +317,6 @@
         {
             "id": 0,
             "name": "Bolognese",
-            "category": "pasta",
             "description": "",
             "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
             "spicy": false,
@@ -347,7 +327,6 @@
         {
             "id": 1,
             "name": "Carbonara",
-            "category": "pasta",
             "description": "",
             "ingredients": [
                 "penne",
@@ -365,7 +344,6 @@
         {
             "id": 0,
             "name": "Caesar",
-            "category": "salads",
             "description": "",
             "ingredients": [
                 "chicken breast",
@@ -385,7 +363,6 @@
         {
             "id": 1,
             "name": "Greek",
-            "category": "salads",
             "description": "",
             "ingredients": [
                 "feta cheese",
@@ -407,7 +384,6 @@
         {
             "id": 2,
             "name": "Tuna",
-            "category": "salads",
             "description": "",
             "ingredients": [
                 "tuna",
@@ -429,7 +405,6 @@
         {
             "id": 0,
             "name": "Brownie",
-            "category": "dessert",
             "description": "A delicious cake with chocolate and hazelnuts",
             "ingredients": [],
             "spicy": false,
@@ -440,7 +415,6 @@
         {
             "id": 1,
             "name": "Chocolate Tortilla",
-            "category": "dessert",
             "description": "Tortilla filled with chocolate cream",
             "ingredients": [],
             "spicy": false,
@@ -451,7 +425,6 @@
         {
             "id": 2,
             "name": "Apple Pie",
-            "category": "dessert",
             "description": "Hot pie with apple and cinnamon",
             "ingredients": [],
             "spicy": false,
@@ -462,7 +435,6 @@
         {
             "id": 3,
             "name": "Cheesecake",
-            "category": "dessert",
             "description": "Cheesecake with berries topping",
             "ingredients": [],
             "spicy": false,
@@ -475,7 +447,6 @@
         {
             "id": 0,
             "name": "Coca Cola",
-            "category": "drinks",
             "description": "Coca Cola 330ml",
             "ingredients": [],
             "spicy": false,
@@ -486,7 +457,6 @@
         {
             "id": 1,
             "name": "Fanta",
-            "category": "drinks",
             "description": "Fanta 330ml",
             "ingredients": [],
             "spicy": false,
@@ -497,7 +467,6 @@
         {
             "id": 2,
             "name": "Sprite",
-            "category": "drinks",
             "description": "Sprite 330ml",
             "ingredients": [],
             "spicy": false,
@@ -508,7 +477,6 @@
         {
             "id": 3,
             "name": "Water",
-            "category": "drinks",
             "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
@@ -519,7 +487,6 @@
         {
             "id": 4,
             "name": "Sparkling water",
-            "category": "drinks",
             "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
@@ -530,7 +497,6 @@
         {
             "id": 5,
             "name": "Fuzetea",
-            "category": "drinks",
             "description": "Fuzetea 0.5L Peach or Lemon",
             "ingredients": [],
             "spicy": false,
@@ -543,7 +509,6 @@
         {
             "id": 0,
             "name": "BBQ",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -554,7 +519,6 @@
         {
             "id": 1,
             "name": "Pizza",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -565,7 +529,6 @@
         {
             "id": 2,
             "name": "Salsa",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": true,
@@ -576,7 +539,6 @@
         {
             "id": 3,
             "name": "Sweet Chilli",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -587,7 +549,6 @@
         {
             "id": 4,
             "name": "Spicy TABASCO",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": true,
@@ -598,7 +559,6 @@
         {
             "id": 5,
             "name": "Mayonnaise",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -609,7 +569,6 @@
         {
             "id": 6,
             "name": "Ketchup",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -620,7 +579,6 @@
         {
             "id": 7,
             "name": "Garlic sauce",
-            "category": "sauces",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -633,7 +591,6 @@
         {
             "id": 0,
             "name": "Wedges",
-            "category": "sides",
             "description": "Baked potatoes, slightly spicy",
             "ingredients": [],
             "spicy": false,
@@ -644,7 +601,6 @@
         {
             "id": 1,
             "name": "Onion rings",
-            "category": "sides",
             "description": "Fried onion rings",
             "ingredients": [],
             "spicy": false,
@@ -655,7 +611,6 @@
         {
             "id": 2,
             "name": "Coleslaw",
-            "category": "sides",
             "description": "Cabbage salad, carrots and dressing",
             "ingredients": [],
             "spicy": false,
@@ -664,5 +619,5 @@
             "image": "https://i.imgur.com/HNX30U9.png"
         }
     ],
-    "food/categories": ["pizza" , "pasta" , "salads" , "dessert" , "drinks" , "sauces" , "sides"]
+    "categories": ["pizza" , "pasta" , "salads" , "dessert" , "drinks" , "sauces" , "sides"]
 }
